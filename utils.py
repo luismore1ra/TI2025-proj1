@@ -7,3 +7,7 @@ def get_int(string):
 def get_float(msg):
     f = float(input(float))
     return f
+
+def get_string(msg):
+    s = input(msg)
+    return s
